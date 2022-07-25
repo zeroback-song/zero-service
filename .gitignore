@@ -67,6 +67,7 @@ atlassian-ide-plugin.xml
 
 # SonarLint plugin
 .idea/sonarlint/
+.idea
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
@@ -196,5 +197,6 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,macos,windows,gradle,java
